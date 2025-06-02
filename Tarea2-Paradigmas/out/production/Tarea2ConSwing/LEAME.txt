@@ -1,0 +1,33 @@
+Benjamin Ossandon, Axel Antezana
+
+
+# Sistema de Pruebas - Taxonomía de Bloom
+
+Este programa permite aplicar pruebas educativas con ítems clasificados por tipo y nivel de Bloom.
+
+## Estructura del archivo de ítems (items.txt)
+
+Una línea representa una pregunta y sigue el formato:
+
+PREGUNTA;OP1,OP2,OP3,...;RESPUESTA_CORRECTA;NIVEL_BLOOM;TIPO_ITEM;TIEMPO_ESTIMADO
+
+el TIEMPO_ESTIMADO es en segundos
+
+(cada ";" es una separacion para identificar que variable esta entregando al programa
+y cada "," es una separacion para las opciones, diciendole al programa que es la misma variable
+pero distintos datos. En total al programa se le entregan 6 variables)
+
+TIPO_ITEM puede ser:
+- opcionMultiple
+- VF: Verdadero/Falso
+
+
+Ejecución:
+1. Clonar el repositorio con el link de github
+2. En caso de que no se pueda crear el repositorio, crear una carpeta vacia y poner el repositorio ahi
+3. Ejecutar la clase `frontend.Main`
+4. Cargar el archivo `items.txt` desde la ventana principal.
+   Que deberia estar en la misma carpeta de la creacion del repositorio
+5. Iniciar la prueba y responder las preguntas mostradas
+6. Al final se mostrara un porcentaje de las preguntas respuestas correctamente
+   por nivel de taxonomia y tipo de pregunta

@@ -1,0 +1,10 @@
+¿Cuál es la capital de Italia?;Roma,París,Berlín,Madrid;Roma;Recordar;OM;30
+¿El Sol gira alrededor de la Tierra?;Verdadero,Falso;Falso;Evaluar;VF;20
+¿Cuál de estos es un lenguaje de programación?;Python,HTML,CSS,Excel;Python;Entender;OM;30
+¿Los humanos tienen 5 sentidos?;Verdadero,Falso;Verdadero;Recordar;VF;15
+¿Cuál es el resultado de 9 + 6?;14,15,16,17;15;Aplicar;OM;25
+¿La fotosíntesis ocurre en las raíces?;Verdadero,Falso;Falso;Entender;VF;20
+¿Qué lenguaje es compilado?;Python,JavaScript,Java,Bash;Java;Analizar;OM;45
+¿2 x 2 es igual a 5?;Verdadero,Falso;Falso;Evaluar;VF;15
+¿Cuál es el elemento químico del símbolo 'O'?;Oxígeno,Oro,Plomo,Hierro;Oxígeno;Recordar;OM;30
+¿Puedes crear nuevos algoritmos con creatividad?;Verdadero,Falso;Verdadero;Crear;VF;25
